@@ -1,0 +1,3 @@
+Zetlaw, (440)-999-1234, Ztlawian@email.com, Runner Ave, Erie, PA, 45812, BUSINESS, Sterris
+Adams, (440)-314-6628, Adams@email.com, New Road, Cleveland, OH, 44800, BUSINESS, Starbucks
+Smith, (440)-555-1234, Contact@email.com, Center Str, Mentor, OH, 44000, BUSINESS, Start Inc.
